@@ -22,7 +22,7 @@ Actualmente profundizo en TypeScript, React y en la creación de interfaces esca
 ## 🧩 Proyectos destacados
 ### 🎮 [Juego de Preguntas y Respuestas (Java + MySQL)](https://github.com/)
 > Aplicación de consola y GUI donde los jugadores responden preguntas y se guarda el puntaje en una base de datos MySQL.
-### 🌐 [Pagina web Escuela Infantil El Prado](https://www.educa2.madrid.org/web/centro.eei.elprado.getafe)
+### 🏫 [Pagina web Escuela Infantil El Prado](https://www.educa2.madrid.org/web/centro.eei.elprado.getafe)
 > Desarrollo original para la escuela, actualmente no gestiono el mantenimiento.
 
 ## 🚀 Sobre mí
