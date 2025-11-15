@@ -26,7 +26,7 @@ Actualmente profundizo en TypeScript, React y en la creación de interfaces esca
 > Desarrollo original para la escuela, actualmente no gestiono el mantenimiento.
 
 ## 🚀 Sobre mí
-- 🧠 Conocimientos de **Entornos de producción Unix**  
+- 🧠 Conocimientos de **Entornos de producción Linux**  
 - ⚙️ Experiencia con **bases de datos relacionales** y **no relacionales**  
 - 🧩 Experiencia con **PHP**, **Java**, **Python** y herramientas de automatización.
 
