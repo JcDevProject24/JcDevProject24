@@ -15,7 +15,7 @@ Actualmente profundizo en TypeScript, React y en la creación de interfaces esca
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000?logo=github)
 
-## 🎯 Ahora mismo
+## 🎯 Actualmente
 - Formándome en React + TypeScript y sistemas de autenticación.
 - Trabajando en nuevos proyectos para mi portfolio.
 
